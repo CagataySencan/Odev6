@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        android:iconTint="@color/yaziRenk" />
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        android:iconTint="@color/yaziRenk"/>
+    <item
+        android:icon="@drawable/ic_baseline_library_music_24"
+        android:title="Your Library"
+        android:iconTint="@color/yaziRenk"/>
+</menu>
